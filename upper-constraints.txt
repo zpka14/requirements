@@ -416,7 +416,7 @@ scrypt===0.8.15
 jsonpatch===1.25
 python-daemon===2.2.4
 typed-ast===1.4.1
-os-testr===2.0.0
+os-testr===1.1.0
 cotyledon===1.7.3
 xattr===0.9.7
 systemd-python===234
